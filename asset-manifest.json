@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b19fafe.chunk.css",
+    "main.js": "/static/js/main.9a28bd6d.chunk.js",
+    "main.js.map": "/static/js/main.9a28bd6d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e6e26c13.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e6e26c13.js.map",
+    "static/js/2.99196279.chunk.js": "/static/js/2.99196279.chunk.js",
+    "static/js/2.99196279.chunk.js.map": "/static/js/2.99196279.chunk.js.map",
+    "static/js/3.f954c777.chunk.js": "/static/js/3.f954c777.chunk.js",
+    "static/js/3.f954c777.chunk.js.map": "/static/js/3.f954c777.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2b19fafe.chunk.css.map": "/static/css/main.2b19fafe.chunk.css.map",
+    "static/js/2.99196279.chunk.js.LICENSE.txt": "/static/js/2.99196279.chunk.js.LICENSE.txt",
+    "static/media/wallstreet2.2023b4d2.jpg": "/static/media/wallstreet2.2023b4d2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6e26c13.js",
+    "static/js/2.99196279.chunk.js",
+    "static/css/main.2b19fafe.chunk.css",
+    "static/js/main.9a28bd6d.chunk.js"
+  ]
+}
